@@ -14,12 +14,12 @@ Here are a few projects I'm proud of:
 1. **Bookmarkly**
    - Description: This web application is a simple landing page for a bookmark managing website.
    - Technologies: React, Tailwind, Vite.
-   - [[Bookmarkly](https://bookmarkly-nupe.vercel.app/)](#)
+   - [[Bookmarkly](https://bookmarkly-nupe.vercel.app/)]
 
 2. **Fylo**
    - Description: This web application is a file management landing page.
    - Technologies: React, Vite, Tailwind CSS.
-   - [Fylo](https://fylo-nupe.vercel.app/)](#)
+   - [Fylo](https://fylo-nupe.vercel.app/)
 
 ## 🌱 Currently Learning
 
